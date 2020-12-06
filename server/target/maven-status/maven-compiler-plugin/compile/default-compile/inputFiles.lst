@@ -1,0 +1,7 @@
+/home/pablo/Dropbox/Cours/m2/daar/projets/projet3/server/src/main/java/com/pablitobello/cvBankElasticsearch/repository/CvRepository.java
+/home/pablo/Dropbox/Cours/m2/daar/projets/projet3/server/src/main/java/com/pablitobello/cvBankElasticsearch/service/CvService.java
+/home/pablo/Dropbox/Cours/m2/daar/projets/projet3/server/src/main/java/com/pablitobello/cvBankElasticsearch/CvBankElasticsearchApplication.java
+/home/pablo/Dropbox/Cours/m2/daar/projets/projet3/server/src/main/java/com/pablitobello/cvBankElasticsearch/config/ElasticsearchConfig.java
+/home/pablo/Dropbox/Cours/m2/daar/projets/projet3/server/src/main/java/com/pablitobello/cvBankElasticsearch/service/CvServiceImplementation.java
+/home/pablo/Dropbox/Cours/m2/daar/projets/projet3/server/src/main/java/com/pablitobello/cvBankElasticsearch/resources/CvResource.java
+/home/pablo/Dropbox/Cours/m2/daar/projets/projet3/server/src/main/java/com/pablitobello/cvBankElasticsearch/model/CV.java
